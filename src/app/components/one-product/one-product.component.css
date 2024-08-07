@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid black;
+    /* padding: 30px; */
+}
+.user{
+    border: 3px solid rgb(102, 218, 239);
+    border-radius: 15px;
+    text-align: center;
+    background-color: rgb(245, 242, 231);
+}
+img{
+    width: 180px;
+    height: 180px;
+}
+.dis{
+    font-size: small;
+}
+.price{
+    font-size: large;
+    color: rgb(136, 163, 238);
+}
